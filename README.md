@@ -1,11 +1,11 @@
 ---
 layout: home
-title: CT Workshop
+title: Baroque Figurations
 nav_exclude: true
 permalink: /:path/
 seo:
-  type: Workshop
-  name: Cosmopolitics
+  type: Graduate Seminar  
+  name: Baroque Figurations
 ---
 
 # Cosmopolitics
@@ -15,10 +15,11 @@ seo:
 {:.no_toc}
 
 |:-------------|:------------------|:------|
-| 2024-2025    | HH 303            | 10am-1pm  |
+| Fall 2025    | HIB 246            | 10am-12:50pm  |
 
-If thinking is the art of discovering difference, “cosmopolitics” is the art of establishing relational grammars across species and determinations of being—a form of ontological diplomacy. In contemporary usage, it names the epistemic, political and legal strategies that seek to build human-non-human assemblages, coalitions *contra naturam*. Hijacking “cosmopolitics” from Kant, Belgian philosopher of science Isabelle Stengers adopted the ancient notion of *kosmopoliḗtēs* (Diog. Laert 6.63) as a leitmotif. She proposed moving beyond the universal triumphalism of the history of science into an “ecology of practices of knowledge,” drawing inspiration from William James’ pluralism and Ernst Mach’s phenomenological constructivism. For Stengers, the ‘cosmos’ in cosmopolitics does not allude to the unified objective world of modern science, the bedrock grounding subjective or culturalist representations, but to an “unknown, constituted by multiple, divergent worlds”; a relational field of non-equivalence in which relations need to be constantly created and re-established, not discovered. Brazilian anthropologist Eduardo Viveiros de Castro later called such an ontology, amply illustrated in Amerindian socio-cosmologies, “multinaturalism”.This workshop seeks to delineate a possible genealogy of cosmopolitics as an epistemic paradigm across the humanities and social sciences as much as a political strategy.
-
+The historiography of Baroque art and culture has encompassed scholars that narrowly limit the term to a select few artistic manifestations, as well as those who view it as nothing less than the *Zeitgeist* or *mentalité* of an entire historical epoch. Scholarly discussions of the Baroque have typically focused on formal aspects, and stylistic attitudes, or seen it as the general expression of a skepticism rooted in a fundamental crisis of representation during the early modern period. The almost pendular alternation of minimalist and maximalists interpretations, combined with theory’s apparent inability to abandon the concept altogether despite art history’s reservations, testifies to its intellectual productivity. We can take one step further and say that the Baroque, as an intellectual matrix, is defined precisely by this capacity to invert, revert, fold and unfold foreground and background, stylistic traits and ethos.   
+In this course, we will explore the Baroque, in all its duplicity, as a constellation of figures of thought (hence the notion of "figurations" in the course's title). Figures of thought do not integrate philosophical systems or conceptual apparatuses, but can be better understood as immanence functions and pre-conceptual operations. Due to this liminal, almost clandestine existence, they do not fit well within the history of philosophy, intellectual history, nor the histoire des mentalités. However, by the same token, like enzymes catalyzing (or decomposing) living forms, figures of thought recur transhistorically, as long as certain conditions are met. (For this reason, we will not make a distinction between Baroque and Neo-Baroque). The art and philosophy of the Baroque age were particularly deft at creating those conditions. 
+Thus, we will investigate a constellation of Baroque figures of thought, asking every time what a certain figuration does to the plane of immanence; what pre- or para-conceptual operations they perform; how they re-distribute, fracture or refract subjects and objects; and in general what sorts of short-circuits they introduce in Western episteme. It is from this set of questions that we will analyze some recurrent tropes in the study of the historical Baroque such as *decorazione assoluta*, *horror vacui* and the aesthetics of excess; theatralization; anamorphosis and the *perspectives dépravées*; rationalism and the fold; oblique architecture; infinity and calculus. Besides the visual arts and architecture that will structure the seminar, we will read selections of Gottfried Leibniz, Juan Caramuel Lobkowicz, Walter Benjamin, Gilles Deleuze, Jacques Lacan, Christine Buci-Glucksmann, José Lezama Lima, Édouard Glissant, Jurgis Baltrušaitis, and Jane Newman, among others. Towards the end of the seminar, we will explore Bolívar Echeverría’s unique blend of Marxism and Baroque theory around the notion of a Baroque alter-modernity from the global South.
 ---
 
 ## Instructor
@@ -42,7 +43,7 @@ If thinking is the art of discovering difference, “cosmopolitics” is the art
 
 ---
 
-The workshop will meet on select Wednesays during Fall 2024, Winter and Spring of 2025 from 10am to 1pm. See the calendar below for a detailed schedule. There are no writing assignments for the workshop, so credit is dependent on attendance, reading and **active** participation. Full attendance of the 10 workshop sessions is expected, but you can make up for a missed session by preparing a kick-off presentation. The reading load will be equivalent to a short book for every session.
+The seminars meets on Wednesays during Fall 2025,  10am to 12:50pm. Writing assignments consists of three reponse papers (2-3 pp), and either a written exam or a final paper. Good standing is predicted on attendance, reading and **active** participation.
 
 ---
 
@@ -54,11 +55,12 @@ The workshop will meet on select Wednesays during Fall 2024, Winter and Spring o
 
 ---
 
-# Reading List 
+# Readings
 
-## Genealogies. Fall 2024
+*NB: for full references and page numbers, see the syllabus.
 
 ### 1. Cosmopolitics and the Question of Universalism (**Oct 2**) 
+- Baltrušaitis, Jurgis. [*Anamorphic Art*]()
 - Isabelle Stengers, ["The cosmopolitical proposal](https://drive.google.com/file/d/1oP3SStew2TSE18Wm9hHQBkcEDK913YZK/view?usp=drive_link). In Bruno Latour & Peter Weibel (eds.), *Making Things Public*. MIT Press, 2005, 994-1003.
 - Isabelle Stengers, ["The Curse of Tolerance"](https://drive.google.com/file/d/1P4sxe2oGqRBNU797tyVhPRLnraFIm09E/view?usp=drive_link), *Cosmopolitcs VII*, The University of Minesota, 2011, pp. 303-416.
 - Bruno Latour, ["Whose Cosmos, which Cosmopolitics?"](https://drive.google.com/file/d/1UQcc9IOb158gjMkeTaf2HBGTGotTurd8/view?usp=drive_link),*Common Knowledge* 10:3, 2004, pp. 450-462.
